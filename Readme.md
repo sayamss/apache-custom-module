@@ -1,5 +1,7 @@
 
-## Install Configure The Apache Web Server [link](www.link)
+# Steps to Create Custom Module for Apache Server
+
+## Install Configure The Apache Web Server [link](http://httpd.apache.org/docs/current/install.html)
 
 ## Create the Module File
 * Make gci.c file(File with Code is in the directory)
@@ -19,5 +21,7 @@
 * Run ***sudo a2enmod gci*** 
 * Restart apache server using ***systemctl restart apache2***
 
-## Visit ***localhost/gci***
+## Urls
+* Visit ***localhost*** for landing page
+* Visit ***localhost/gci*** for the Module Page
 
