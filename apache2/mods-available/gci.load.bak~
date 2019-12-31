@@ -1,0 +1,1 @@
+LoadModule gci_module         /usr/lib/apache2/modules/gci.so
